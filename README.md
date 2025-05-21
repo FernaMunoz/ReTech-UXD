@@ -4,13 +4,13 @@ User experience design for ReTech application o donate recycled electronic devic
 
 ## Índice
 
-*[Description](#Description)
+* [Description](#Description)
 
-*[Team](#Team)
+* [Team](#Team)
 
-*[Strategy](#Strategy)
+* [Strategy](#Strategy)
 
-*[Scope](#Scope)
+* [Scope](#Scope)
 
 
 
