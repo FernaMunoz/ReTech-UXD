@@ -46,12 +46,10 @@ When defining the product strategy using the value proposition canvas, we must d
 
 ![UX_Person_2](https://github.com/user-attachments/assets/aa7d646a-3fc8-4769-aaf4-a7cda47e24a9)
 
+![UX_Person_3](https://github.com/user-attachments/assets/095b8a16-2e8e-4657-8108-c90cd86195d0)
+
 ### Customer Journey Map
 
 ### Benchmark
-
-![UX_Person_3](https://github.com/user-attachments/assets/095b8a16-2e8e-4657-8108-c90cd86195d0)
-
-
 
 
