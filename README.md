@@ -5,15 +5,15 @@ User experience design for ReTech application o donate recycled electronic devic
 ## Índice
 
 * [1. Description](#Description)
-* [2. Team](#Team)
-* [3. Strategy](#Strategy)
-* [4. Scope](#Scope)
-  * [4.1 UX Personas](#ux-personas)
-  * [4.2 Customer Journey Map](#customer-journey-map)
-  * [4.3 Benchmark](#benchmark)
-* [5. Structure](#structure)
-* [6. Skeleton](#skeleton)
-* [7. Surface](#surface)
+* [2. Strategy](#Strategy)
+* [3. Scope](#Scope)
+  * [3.1 UX Personas](#ux-personas)
+  * [3.2 Customer Journey Map](#customer-journey-map)
+  * [3.3 Benchmark](#benchmark)
+* [4. Structure](#structure)
+* [5. Skeleton](#skeleton)
+* [6. Surface](#surface)
+* [7. Team](#Team)
 
 ## Description
 
@@ -21,15 +21,6 @@ The problem to be solved is the accumulation of electronic devices that people k
 
 Through a mobile application, where the user will publish the electronic devices that are not used and locate recycling points that receive electronic devices that work. publicas tu dispositivo y si un usuario esta interesado habra un espacio de comunicacion para decidir un punto de encuentro y hacer la entrega.
 
-## Team
-
-Maria José Powell - Designer
-
-Karla Legue -
-
-Juan José Paiva -
-
-Fernanda Muñoz -
 
 ## Strategy
 
@@ -60,3 +51,13 @@ When defining the product strategy using the value proposition canvas, we must d
 ## Skeleton
 
 ## Surface
+
+## Team
+
+Maria José Powell - Designer
+
+Karla Legue -
+
+Juan José Paiva -
+
+Fernanda Muñoz -
