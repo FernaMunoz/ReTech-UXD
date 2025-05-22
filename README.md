@@ -4,10 +4,11 @@ User experience design for ReTech application o donate recycled electronic devic
 
 ## Índice
 
-* [Description](#Description)
-* [Team](#Team)
-* [Strategy](#Strategy)
-* [Scope](#Scope)
+* [1. Description](#Description)
+* [2. Team](#Team)
+* [3. Strategy](#Strategy)
+* 4. [Scope](#Scope)
+  * [4.1 UX Persona](#UX Persona)
 
 ## Description
 
@@ -17,7 +18,7 @@ Through a mobile application, where the user will publish the electronic devices
 
 ## Team
 
-Maria José Powell - 
+Maria José Powell - Designer
 
 Karla Legue -
 
@@ -27,13 +28,17 @@ Fernanda Muñoz -
 
 ## Strategy
 
-At this point we will start with the first step of the Elements of User Experience which is the Strategy plane. A Value Proportion Canvas was created to understand and design the value proposition for the problem we seek to solve, identifying the customer's needs and desires, as well as their pain points.
+At this point we will start with the first step of the Elements of User Experience which is the Strategy plane. A Value Proposition Canvas was created to understand and design the value proposition for the problem we seek to solve, identifying the customer's needs and desires, as well as their pain points.
+
+In this photo is the Value Proposition Canva based on how to donate electronic devices to be recycled.
 
 ![Value Proposition Canvas - ReTech](https://github.com/user-attachments/assets/363367d8-87f5-4166-9880-3fe786712a66)
 
 ## Scope
 
 When defining the product strategy using the value proposition canvas, we must define the scope plane. 
+
+### UX Personas
 
 ![UX_Person_1](https://github.com/user-attachments/assets/bab576ef-b72f-4e71-bf83-471703434c0c)
 
