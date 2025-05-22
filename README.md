@@ -38,7 +38,7 @@ In this section when defining the structure plan, we have to define the scope pl
 
 By creating Personas with different contexts where a person is required to donate a device, such as a user who needs it or wants to get rid of the accumulation of electronic devices.
 
-![UX_Person_1](https://github.com/user-attachments/assets/bab576ef-b72f-4e71-bf83-471703434c0c)
+[![UX Person 2](files/UX_Person_2.png)](files/UX_Person_2.png)
 
 ![UX_Person_2](https://github.com/user-attachments/assets/aa7d646a-3fc8-4769-aaf4-a7cda47e24a9)
 
