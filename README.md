@@ -28,7 +28,9 @@ At this point we will start with the first step of the Elements of User Experien
 In this photo is the Value Proposition Canva based on how to donate electronic devices to be recycled.
 
 ![Value Proposition Canvas - ReTech](https://github.com/user-attachments/assets/363367d8-87f5-4166-9880-3fe786712a66)
-[![Value Proposition Canvas - ReTech](Files/Value Proposition Canvas - ReTech.png)](Files/Value Proposition Canvas - ReTech.png)
+
+[![Value Proposition Canvas - ReTech](Files/Value_Proposition_Canvas_ReTech.png)](Files/Value_Proposition_Canvas_ReTech.png)
+
 ## Scope
 
 When defining the product strategy using the value proposition canvas, we must define the scope plane. 
@@ -39,11 +41,12 @@ In this section when defining the structure plan, we have to define the scope pl
 
 By creating Personas with different contexts where a person is required to donate a device, such as a user who needs it or wants to get rid of the accumulation of electronic devices.
 
-[![UX Person_1](Files/UX Person_1.png)](Files/UX_Person_1.png)
+[![UX Persona 1](Files/UX_Person_1.png)](Files/UX_Person_1.png)
 
-![UX_Person_2](https://github.com/user-attachments/assets/aa7d646a-3fc8-4769-aaf4-a7cda47e24a9)
+[![UX Persona 2](Files/UX_Person_2.png)](Files/UX_Person_2.png)
 
-![UX_Person_3](https://github.com/user-attachments/assets/095b8a16-2e8e-4657-8108-c90cd86195d0)
+[![UX Persona 3](Files/UX_Person_3.png)](Files/UX_Person_3.png)
+
 
 ### Customer Journey Map
 
