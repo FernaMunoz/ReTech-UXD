@@ -1,6 +1,6 @@
 # ReTech-UXD
 
-User experience design for ReTech application o donate recycled electronic devices, upload publications and locate recycling points.
+User experience design for ReTech application to donate recycled electronic devices, upload publications and locate recycling points.
 
 ## Index
 
@@ -65,6 +65,8 @@ Competitors are more detailed in this document
 [Benchmarking Full Document (PDF)](Files/Benchmarking_.pdf)
 
 ## Structure
+
+[![Site Map ReTech](Files/Site_Map_ReTech.png)](Files/Site_Map_ReTech.png)
 
 ## Skeleton
 
