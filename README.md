@@ -27,9 +27,11 @@ At this point we will start with the first step of the Elements of User Experien
 
 In this photo is the Value Proposition Canva based on how to donate electronic devices to be recycled.
 
-![Value Proposition Canvas - ReTech](https://github.com/user-attachments/assets/363367d8-87f5-4166-9880-3fe786712a66)
-
 [![Value Proposition Canvas - ReTech](Files/Value_Proposition_Canvas_ReTech.png)](Files/Value_Proposition_Canvas_ReTech.png)
+
+Files/Value Proposition Canvas - ReTech.png
+
+[![Value Proposition Canvas - ReTech](Files/value_proposition_canvas_retech.png)](Files/value_proposition_canvas_retech.png)
 
 ## Scope
 
