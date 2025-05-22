@@ -54,6 +54,16 @@ Based on the creation of UX Personas we define the Customer Journey Map to ident
 
 ### Benchmark
 
+Benchmarking in UX Design allows you to validate designs according to project objectives, compare the product with competitors, and track potential results over time.
+
+Based on the points identified in the previous section, a benchmark canvas was made to validate the objective of our project and to make comparisons with different competitors.
+
+[![Benchmarking](Files/Benchmarking.png)](Files/Benchmarking.png)
+
+Competitors are more detailed in this document
+
+[Benchmarking Full Document (PDF)](Files/Benchmarking_.pdf)
+
 ## Structure
 
 ## Skeleton
