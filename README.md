@@ -7,8 +7,8 @@ User experience design for ReTech application o donate recycled electronic devic
 * [1. Description](#Description)
 * [2. Team](#Team)
 * [3. Strategy](#Strategy)
-* 4. [Scope](#Scope)
-  * [4.1 UX Persona](#UX Persona)
+*  [4. Scope](#Scope)
+  * [4.1 UX Personas](#UX Personas)
 
 ## Description
 
