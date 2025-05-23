@@ -31,7 +31,7 @@ In this photo is the Value Proposition Canva based on how to donate electronic d
 
 ## Scope
 
-When defining the product strategy using the value proposition canvas, we must define the scope plane. 
+When defining the product strategy using the value proposition canvas, we must define the scope plane. In this plane describes the functional and content requirements of your product, as well as the user stories and scenarios that describe how users will interact with it. You also identify the users who would be interested in the product and create user flows, site maps and information architecture diagrams to show how your product will be structured and organized.
 
 ### UX Personas
 
@@ -76,8 +76,8 @@ Competitors are more detailed in this document
 
 Maria José Powell - Designer
 
-Karla Legue -
+Karla Legue - Designer
 
 Juan José Paiva -
 
-Fernanda Muñoz -
+Fernanda Muñoz - Project Manager
