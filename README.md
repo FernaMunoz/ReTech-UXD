@@ -68,11 +68,15 @@ Competitors are more detailed in this document
 
 The design and navigation of a product is defined in the structure plane, in the case of this project to design an application to donate or recycle electronic devices, it is necessary to know how the navigation of the application will be carried out.
 
-In the Site Map shows how the navigation of the application works 
+In the Site Map shows how the navigation of the application works. 
 
 [![Site Map ReTech](Files/Site_Map_ReTech.png)](Files/Site_Map_ReTech.png)
 
 ## Skeleton
+(insertar texto) en proceso
+
+![Pantalla inicio sesion](https://github.com/user-attachments/assets/9d4f85b0-28fe-40c2-89be-0c1f86fcd9a2)
+
 
 ## Surface
 
