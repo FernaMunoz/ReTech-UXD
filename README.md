@@ -50,7 +50,7 @@ By creating Personas with different contexts where a person is required to donat
 
 Based on the creation of UX Personas we define the Customer Journey Map to identify what is wanted from the application to design.
 
-(insertar foto traducida)
+[![Customer_Journey_Map](Files/Customer_Journey_Map.png)](Files/Customer_Journey_Map,png)
 
 ### Benchmark
 
@@ -65,6 +65,10 @@ Competitors are more detailed in this document
 [Benchmarking Full Document (PDF)](Files/Benchmarking_.pdf)
 
 ## Structure
+
+The design and navigation of a product is defined in the structure plane, in the case of this project to design an application to donate or recycle electronic devices, it is necessary to know how the navigation of the application will be carried out.
+
+In the Site Map shows how the navigation of the application works 
 
 [![Site Map ReTech](Files/Site_Map_ReTech.png)](Files/Site_Map_ReTech.png)
 
