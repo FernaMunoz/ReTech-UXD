@@ -73,7 +73,11 @@ In the Site Map shows how the navigation of the application works.
 [![Site Map ReTech](Files/Site_Map_ReTech.png)](Files/Site_Map_ReTech.png)
 
 ## Skeleton
-(insertar texto) en proceso
+The fourth plane, which is the skeleton, is where the graphic interface is designed, the navigation and how components such as buttons, text, images, etc. will be placed. Wireframes are a visual representation of what users will see and interact with in the application. The purpose of a wireframe is to visualize the concept of the project. 
+
+In this case to make a design for an application to donate or recycle electronic devices. Designing the visualization of how this application will work, with its navigation and components. 
+
+The wireframes designed to donate and find recycling points for electronic devices will be shown below.
 
 ![Pantalla inicio sesion](https://github.com/user-attachments/assets/9d4f85b0-28fe-40c2-89be-0c1f86fcd9a2)
 
