@@ -77,6 +77,29 @@ In the Site Map shows how the navigation of the application works.
 
 ![Pantalla inicio sesion](https://github.com/user-attachments/assets/9d4f85b0-28fe-40c2-89be-0c1f86fcd9a2)
 
+![Pantalla Registrar usuario](https://github.com/user-attachments/assets/5bcd02bd-49a0-45e0-a461-17d274407dff)
+
+![Home](https://github.com/user-attachments/assets/080107c6-0e13-4461-9541-7a73449c55d1)
+
+![ver publicacion](https://github.com/user-attachments/assets/2b270b4f-6f18-4309-a4b2-48d986dfd5f0)
+
+![historial de chat](https://github.com/user-attachments/assets/78b78733-3fe2-4318-8b7f-5fb7169dd502)
+
+![chat](https://github.com/user-attachments/assets/d5dbabe0-2ae3-4104-9590-25d6c71e01d2)
+
+![Añadir publicación](https://github.com/user-attachments/assets/82f368d4-87fc-4dea-99ae-7b175027f2b6)
+
+![Editar publicación](https://github.com/user-attachments/assets/0ed152fc-ca50-4d7c-8991-1ef96c00ec93)
+
+![Buscador](https://github.com/user-attachments/assets/86f3a2a0-b855-4522-bf4e-3937b808ac34)
+
+![mapa](https://github.com/user-attachments/assets/2953bb9d-5957-4e9b-a30f-c2769d1705e6)
+
+![Perfil](https://github.com/user-attachments/assets/40f25bef-4a2e-4fad-998f-65d2569f0ffd)
+
+![Configuracion](https://github.com/user-attachments/assets/d6b62e2e-f824-4f48-bc9e-1ab09d9e1378)
+
+[Wireframes full Document here (PDF)](Files/Wireframes.pdf)
 
 ## Surface
 
