@@ -112,6 +112,52 @@ Finally, there is the surface plane, where the actual interface that users will 
 
 With the design of the screens you can see the colors, components and operation of the application, shown below.
 
+Login 
+
+![Inicio sesion Interfaz](https://github.com/user-attachments/assets/ba899a36-5237-4bfd-b581-d087b4fd3800)
+
+Sign up
+
+![Registrar usuario Interfaz](https://github.com/user-attachments/assets/8742fedb-bb3f-46d9-a735-5f170749463b)
+
+Home
+
+![Home Interfaz](https://github.com/user-attachments/assets/f7e09015-f174-4c8e-91b3-78c42103e088)
+
+Publication view
+
+![ver publicacion Interfaz](https://github.com/user-attachments/assets/f8cab5ad-c889-4bcd-af5e-9450ae110381)
+
+Chat history
+
+![historial de chat Interfaz](https://github.com/user-attachments/assets/a31d6b6f-74af-4449-964e-536313ae3fd9)
+
+Chat
+
+![chat Interfaz](https://github.com/user-attachments/assets/96d47cf3-e4f4-4f69-81ad-ad9f0b28fe96)
+
+Search 
+
+![Buscador Interfaz](https://github.com/user-attachments/assets/9a2344a2-946c-4875-b0fe-01522a73e941)
+
+Add publication
+
+![Añadir publicación Interfaz](https://github.com/user-attachments/assets/4dad5ec9-4b64-48dc-9429-1abe9c5664ba)
+
+Edit publication
+
+![Editar publicación Interfaz](https://github.com/user-attachments/assets/98d80967-b33a-4dcd-ad7c-437922cb6b03)
+
+(espacio para el mapa)
+
+Profile
+
+![Perfil Interfaz](https://github.com/user-attachments/assets/6d5f53e5-6ab0-4cf2-8f76-598e9245a828)
+
+Configuration
+
+![Configuracion Interfaz](https://github.com/user-attachments/assets/15cbbc6e-a8af-4602-b015-e260e22502df)
+
 
 ## Team
 
