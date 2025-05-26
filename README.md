@@ -27,7 +27,7 @@ In addition, there is little knowledge about the recycling points available in t
 
 At this point we will start with the first step of the Elements of User Experience which is the Strategy plane. A Value Proposition Canvas was created to understand and design the value proposition for the problem we seek to solve, identifying the customer's needs and desires, as well as their pain points.
 
-In this photo is the Value Proposition Canva based on how to donate electronic devices to be recycled.
+In this photo is the Value Proposition Canva based on how to donate electronic devices to be recycled. Identifying the value of the problem, based on the pain points, satisfaction and benefits, that users who accumulate electronic devices would have to recycle or donate them.
 
 [![Value_Proposition_Canvas](Files/Value_Proposition_Canvas.png)](Files/Value_Proposition_Canvas.png)
 
@@ -37,7 +37,7 @@ When defining the product strategy using the value proposition canvas, we must d
 
 ### UX Personas
 
-In this section when defining the structure plan, we have to define the scope plane, starting with the creation of UX Personas to define the possible users that will be interested in people to donate functional electronic devices.
+In this section when defining the structure plan, we have to define the scope plane, starting with the creation of UX Personas to define the possible users that will be interested in people to donate or recycle functional electronic devices.
 
 By creating Personas with different contexts where a person is required to donate a device, such as a user who needs it or wants to get rid of the accumulation of electronic devices.
 
@@ -46,7 +46,6 @@ By creating Personas with different contexts where a person is required to donat
 [![UX Persona 2](Files/UX_Person_2.png)](Files/UX_Person_2.png)
 
 [![UX Persona 3](Files/UX_Person_3.png)](Files/UX_Person_3.png)
-
 
 ### Customer Journey Map
 
@@ -70,14 +69,14 @@ Competitors are more detailed in this document
 
 The design and navigation of a product is defined in the structure plane, in the case of this project to design an application to donate or recycle electronic devices, it is necessary to know how the navigation of the application will be carried out.
 
-In the Site Map shows how the navigation of the application works. 
+In the Site Map shows how the navigation of the application works. From logging in, viewing the feed, posting or editing publications, searching for recycling points and talking to the person interested in the advertised device, in addition view the profile user.
 
 [![Site Map ReTech](Files/Site_Map_ReTech.png)](Files/Site_Map_ReTech.png)
 
 ## Skeleton
 The fourth plane, which is the skeleton, is where the graphic interface is designed, the navigation and how components such as buttons, text, images, etc. will be placed. Wireframes are a visual representation of what users will see and interact with in the application. The purpose of a wireframe is to visualize the concept of the project. 
 
-In this case to make a design for an application to donate or recycle electronic devices. Designing the visualization of how this application will work, with its navigation and components. 
+In this case to make a design for an application to donate or recycle electronic devices. Designing the visualization of how this application will work, with its  components and screens. 
 
 Below are the wireframes designed for the mobile application where you upload publications to donate and find recycling points for electronic devices, as well as talk to people interested in your publications and schedule a meeting point.
 
@@ -140,6 +139,8 @@ Search
 
 ![Buscador Interfaz](https://github.com/user-attachments/assets/9a2344a2-946c-4875-b0fe-01522a73e941)
 
+In the application publishes the electronic devices that the user has, in addition to being able to edit it in case of publication errors.
+
 Add publication
 
 ![Añadir publicación Interfaz](https://github.com/user-attachments/assets/4dad5ec9-4b64-48dc-9429-1abe9c5664ba)
@@ -148,7 +149,19 @@ Edit publication
 
 ![Editar publicación Interfaz](https://github.com/user-attachments/assets/98d80967-b33a-4dcd-ad7c-437922cb6b03)
 
-(espacio para el mapa)
+In the screens add publication and edit publication, a pop-up window was designed that warns that if you leave the screen the changes will not be saved.
+
+![Ventana Emergente](https://github.com/user-attachments/assets/a9dd08a5-6f41-4b38-ba26-d424e36f22f9)
+
+To recycle the map shows recycling points based on location.
+
+Map
+
+![mapa Interfaz](https://github.com/user-attachments/assets/d6c29f6c-5f4c-4517-84f1-90c39e56578d)
+
+In the search screen, it will display a pop-up window asking for location permissions.
+
+![Permisos ubicación](https://github.com/user-attachments/assets/916f9b6a-3c4d-463d-b755-97648acfaaa9)
 
 Profile
 
@@ -157,7 +170,6 @@ Profile
 Configuration
 
 ![Configuracion Interfaz](https://github.com/user-attachments/assets/15cbbc6e-a8af-4602-b015-e260e22502df)
-
 
 ## Team
 
