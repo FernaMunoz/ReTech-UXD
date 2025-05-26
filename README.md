@@ -79,7 +79,7 @@ The fourth plane, which is the skeleton, is where the graphic interface is desig
 
 In this case to make a design for an application to donate or recycle electronic devices. Designing the visualization of how this application will work, with its navigation and components. 
 
-The wireframes designed to donate and find recycling points for electronic devices will be shown below.
+Below are the wireframes designed for the mobile application where you upload publications to donate and find recycling points for electronic devices, as well as talk to people interested in your publications and schedule a meeting point.
 
 ![Pantalla inicio sesion](https://github.com/user-attachments/assets/9d4f85b0-28fe-40c2-89be-0c1f86fcd9a2)
 
@@ -108,6 +108,10 @@ The wireframes designed to donate and find recycling points for electronic devic
 [Wireframes full Document here (PDF)](Files/Wireframes.pdf)
 
 ## Surface
+Finally, there is the surface plane, where the actual interface that users will see and interact with is designed, as well as the content that the application will present.
+
+With the design of the screens you can see the colors, components and operation of the application, shown below.
+
 
 ## Team
 
