@@ -172,7 +172,7 @@ Configuration
 ![Configuracion Interfaz](https://github.com/user-attachments/assets/15cbbc6e-a8af-4602-b015-e260e22502df)
 
 
-[Interfaces full Document here (PDF)](Files/Interfaces PDF.pdf)
+[Interfaces full Document here (PDF)](Files/Interfaces.pdf)
 
 ## Team
 
