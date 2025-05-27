@@ -180,6 +180,6 @@ Maria José Powell - Designer
 
 Karla Legue - Designer
 
-Juan José Paiva - Supervisor
+Juan José Paiva - Project Manager
 
 Fernanda Muñoz - Project Manager
