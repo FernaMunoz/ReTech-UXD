@@ -17,17 +17,15 @@ User experience design for ReTech application to donate recycled electronic devi
 
 ## Description
 
-At Universidad de La Frontera, many students have unused electronic devices that are still working, but do not have an adequate platform to donate or exchange them in a simple and safe way with other students who might need them.
+At UFRO, students have functional but unused electronic devices. However, they lack an adequate platform to easily and securely donate them to other students who might need them.
 
-This lack of an efficient connection channel limits the reuse of devices, generates unnecessary accumulation of electronic waste and misses opportunities for student solidarity.
-
-In addition, there is little knowledge about the recycling points available in the city, which hinders the responsible management of this equipment. This situation highlights the need for a solution that facilitates responsible sharing, promotes environmental awareness and contributes to the circular economy within the university environment.
+This lack of an efficient connection channel limits device reuse, generates an unnecessary accumulation of electronic waste, and wastes opportunities for student solidarity.
 
 ## Strategy
 
-At this point we will start with the first step of the Elements of User Experience which is the Strategy plane. A Value Proposition Canvas was created to understand and design the value proposition for the problem we seek to solve, identifying the customer's needs and desires, as well as their pain points.
+At this point, we'll begin with the first step of the User Experience Elements, which is the Strategy blueprint. A Value Proposition Canvas was created to understand and design the value proposition for the problem we seek to solve, identifying the customer's needs and desires, as well as their pain points.
 
-In this photo is the Value Proposition Canva based on how to donate electronic devices to be recycled. Identifying the value of the problem, based on the pain points, satisfaction and benefits, that users who accumulate electronic devices would have to recycle or donate them.
+The following image shows the Value Proposition Canvas based on donating electronic devices for reuse. The value of the problem is identified, based on the pain points, satisfaction, and benefits that users who accumulate electronic devices would receive by donating them.
 
 [![Value_Proposition_Canvas](Files/Value_Proposition_Canvas.png)](Files/Value_Proposition_Canvas.png)
 
