@@ -35,7 +35,7 @@ When defining the product strategy using the value proposition canvas, we must d
 
 ### UX Personas
 
-In this section when defining the structure plan, we have to define the scope plane, starting with the creation of UX Personas to define the possible users that will be interested in people to donate or recycle functional electronic devices.
+In this section when defining the structure plan, we have to define the scope plane, starting with the creation of UX Personas to define the possible users that will be interested in people to donate functional electronic devices.
 
 By creating Personas with different contexts where a person is required to donate a device, such as a user who needs it or wants to get rid of the accumulation of electronic devices.
 
@@ -74,9 +74,9 @@ In the Site Map shows how the navigation of the application works. From logging 
 ## Skeleton
 The fourth plane, which is the skeleton, is where the graphic interface is designed, the navigation and how components such as buttons, text, images, etc. will be placed. Wireframes are a visual representation of what users will see and interact with in the application. The purpose of a wireframe is to visualize the concept of the project. 
 
-In this case to make a design for an application to donate or recycle electronic devices. Designing the visualization of how this application will work, with its  components and screens. 
+In this case to make a design for an application to donate electronic devices. Designing the visualization of how this application will work, with its components and screens. 
 
-Below are the wireframes designed for the mobile application where you upload publications to donate and find recycling points for electronic devices, as well as talk to people interested in your publications and schedule a meeting point.
+Below are the wireframes designed for the mobile application where you upload publications to donate electronic devices, as well as talk to people interested in your publications and schedule a meeting point.
 
 ![Pantalla inicio sesion](https://github.com/user-attachments/assets/9d4f85b0-28fe-40c2-89be-0c1f86fcd9a2)
 
@@ -171,6 +171,12 @@ Configuration
 
 
 [Interfaces full Document here](Files/Interfaces.png)
+
+## Mockups 2.0
+
+Based on teacher feedback and heuristic evaluation of our course classmates, we have changed the interfaces of the application, due to unnecessary functions, aesthetics, colors and improve the main functionalities of the application.
+
+As a group we decided on a dark palette with a less light green color, with the background color a very dark gray that is not completely black.
 
 ## Team
 
