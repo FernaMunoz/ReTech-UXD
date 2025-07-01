@@ -248,19 +248,20 @@ On the post a device screen, you can post a device you want to donate, adding a 
 
 When you posting the device, you can view, delete, and edit the publication. You can also mark it as donated if you have donated it to an interested party.
 
-![Tu publicación](https://github.com/user-attachments/assets/9b3a8ee9-f455-4155-809c-15487484f5b8)
-![Editar tu publicación](https://github.com/user-attachments/assets/d9e1c275-046a-42c9-9a88-c5e0934fc843)
-
 [![Tu publicación](Files/mockups/v2/Tu%20publicación.png)](Files/mockups/v2/Tu%20publicación.png)
 [![Editar tu publicación](Files/mockups/v2/Editar%20tu%20publicación.png)](Files/mockups/v2/Editar%20tu%20publicación.png)
 
 You can explore other users' posts and, if any interest you, click on the “Send message to donor” button to be redirected to the chat screen. You can also view the profile of the user who posted the device, along with their star rating, which helps to build trust and confidence when finalizing the donation.
 
-![Ver publicacion (1)](https://github.com/user-attachments/assets/a61dc655-0671-4a9e-ba6d-7b6c70b00c72)
+[![Ver publicacion](Files/mockups/v2/Ver%20publicacion.png)](Files/mockups/v2/Ver%20publicacion.png)
 
 ![Chat mi interés otro producto](https://github.com/user-attachments/assets/dd367226-b8dc-4720-8fda-9a8c9817047c)
 
+[![Chat mi interés otro producto](Files/mockups/v2/Chat%20mi%20interés%20otro%20producto.png)](Files/mockups/v2/Chat%20mi%20interés%20otro%20producto.png)
+
 ![Perfil Antonia (donadora)](https://github.com/user-attachments/assets/b387288a-4990-4949-8511-22ee4ef98d67)
+
+[![Perfil Antonia (donadora)](Files/mockups/v2/Perfil%20Antonia%20%28donadora%29.png)](Files/mockups/v2/Perfil%20Antonia%20%28donadora%29.png)
 
 On the browsing chat screen, there are two tabs, one to go to the user's interests chat screen and the other is the my donations chat screen.
 
