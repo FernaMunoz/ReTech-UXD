@@ -306,6 +306,8 @@ If a user detects an error, malfunction, or any technical issue within the appli
 
 [![Configuracion](Files/mockups/v2/Configuracion.png)](Files/mockups/v2/Configuracion.png)
 
+[Mockups v2 Full Document](Files/mockups/v2/mockups.md)
+
 ## Team
 
 Maria José Powell - Designer
