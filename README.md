@@ -175,9 +175,22 @@ Configuration
 
 ### Mockups 2.0
 
-Based on teacher feedback and heuristic evaluation of our course classmates, we have changed the interfaces of the application, due to unnecessary functions, aesthetics, colors and improve the main functionalities of the application.
+Based on teacher feedback and heuristic evaluation of our course classmates, we have changed the interfaces of the application, some functionalities, aesthetics, colors and improve the main functionalities of the application.
 
 As a group we decided on a dark palette with a less light green color, with the background color a very dark gray that is not completely black.
+
+The main screens of the application are as follows.
+
+The front page of the application at start up.
+
+![Portada](https://github.com/user-attachments/assets/092ed1b9-6cd3-453b-8377-17a28ad1db59)
+![Principal](https://github.com/user-attachments/assets/a8e4ed40-0cf7-4f0e-a73b-0df06ffcd22f)
+
+Sign in and Sign up screens
+
+![Iniciar sesión](https://github.com/user-attachments/assets/4d4f5fe1-efc7-4452-b344-9b19104522b7)
+![Registrar](https://github.com/user-attachments/assets/eff62050-2d5e-4c95-8a9b-b48828bc24cd)
+
 
 ## Team
 
