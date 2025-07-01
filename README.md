@@ -63,6 +63,10 @@ Based on the creation of UX Personas we define the Customer Journey Map to ident
 
 [![Customer_Journey_Map](Files/Customer_Journey_Map.png)](Files/Customer_Journey_Map,png)
 
+In this updated version, all information related to recycling points has been removed to focus exclusively on the process of donating electronic devices. This decision allows the user experience to focus on specific actions within the app.
+
+In this way, the Customer Journey Map more accurately reflects the actual flow that users will experience in ReTech.
+
 [![Final Customer_Journey_Map](Files/Final_Customer_Journey_Retech.png)](Files/Final_Customer_Journey_Retech.png)
 
 ### Benchmark
