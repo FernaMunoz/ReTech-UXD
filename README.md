@@ -215,6 +215,8 @@ The main screens of the application are as follows.
 The front page of the application at start up.
 
 ![Portada](https://github.com/user-attachments/assets/092ed1b9-6cd3-453b-8377-17a28ad1db59)
+
+This screen briefly and clearly presents the main purpose of our application, with the aim of helping users understand what it is for from the outset and encouraging them to explore it.
 ![Principal](https://github.com/user-attachments/assets/a8e4ed40-0cf7-4f0e-a73b-0df06ffcd22f)
 
 Login and sign up 
@@ -231,9 +233,9 @@ The home screen has a filter that displays specific categories of electronic dev
 ![Computadores](https://github.com/user-attachments/assets/73827e54-7997-4601-91a4-829809fda6ae)
 ![Celulares](https://github.com/user-attachments/assets/fd1d18f3-72da-48f3-ac32-4ab8c89f930d)
 
-The navbar of the home screen, has 5 options, home screen, search, post a device, chat conversation and user profile.
+The navigation bar on the home screen has five options: home screen, search, donate a device, chat conversation, and user profile.
 
-First, we have the search screen, to search for specific electronic devices. Such as searching by name, brand, or category.
+First, we have the search screen, for searching for specific electronic devices.
 
 ![Buscar](https://github.com/user-attachments/assets/b2cd3dd1-1953-44c9-b422-14e1823b0f2d)
 
@@ -241,12 +243,12 @@ On the post a device screen, you can post a device you want to donate, adding a 
 
 ![Añadir publicación (1)](https://github.com/user-attachments/assets/a16f5ab1-012f-4cfa-be88-8fbce3116287)
 
-When posting the device you can view and edit the post. Also, you can mark it as donated if you donated the device to an interested person.
+When you posting the device, you can view, delete, and edit the publication. You can also mark it as donated if you have donated it to an interested party.
 
 ![Tu publicación](https://github.com/user-attachments/assets/9b3a8ee9-f455-4155-809c-15487484f5b8)
 ![Editar tu publicación](https://github.com/user-attachments/assets/d9e1c275-046a-42c9-9a88-c5e0934fc843)
 
-You can view other users posts and if you are interested you can click the Send message to donor button and you will be redirected to the chat screen. Also you can view the profile of the person who published the electronic device.
+You can explore other users' posts and, if any interest you, click on the “Send message to donor” button to be redirected to the chat screen. You can also view the profile of the user who posted the device, along with their star rating, which helps to build trust and confidence when finalizing the donation.
 
 ![Ver publicacion (1)](https://github.com/user-attachments/assets/a61dc655-0671-4a9e-ba6d-7b6c70b00c72)
 
@@ -276,7 +278,28 @@ In the navigation bar, the profile button you can see your profile, with your po
 
 ![Mi perfil](https://github.com/user-attachments/assets/dbd9e5b6-2216-4bb4-a403-b3a015ae79db)
 
-On the profile screen, there is the configuration button, you have the options to configure the account, help and support, and the actions of your account.
+On the profile screen, users will find the Settings button, where they can manage various aspects of their account and customize their experience within the ReTech app. This section is organized into several options that allow users to maintain control and security of their account, as well as resolve questions or report issues. The available features are detailed below:
+
+1. Edit profile
+This option allows users to make changes to the information associated with their profile. Available actions include changing the profile picture and cover photo, updating the personal description, modifying the registered email address, and accessing the account deletion option.
+
+2. Password and security
+In this section, users can view the latest logins to their account. This feature is designed to provide greater control over recent activity, allowing users to detect suspicious access. If an unrecognized action is identified, the user can change their password and log out of all devices that do not belong to them.
+
+3. Notifications
+From this screen, users can manage which notifications they wish to receive from ReTech. Alerts can be enabled or disabled.
+
+4. Privacy
+With a commitment to transparency, this section clearly states what personal data is collected, for what purposes it is used, and what measures are taken to protect it.
+
+5. Help and support
+This section contains answers to frequently asked questions (FAQs), aimed at resolving common queries related to the operation of the application. If the user needs personalized assistance, they have the option of sending a message directly to the support team, who will respond as quickly as possible to provide a solution.
+
+6. Terms and conditions
+This section details the terms and conditions established by the ReTech team to ensure proper, safe, and respectful use of the platform. Users are encouraged to read this section carefully to understand their rights and responsibilities within the application.
+
+7. Report a problem
+If a user detects an error, malfunction, or any technical issue within the application, they can report it from this section. You will be asked to describe the problem in detail and, if you wish, you can include your email address to receive a direct response from the technical team with a possible solution or follow-up.
 
 ![Configuracion (1)](https://github.com/user-attachments/assets/07912a52-0cf5-4b12-93fa-5b5bbcad3a02)
 
