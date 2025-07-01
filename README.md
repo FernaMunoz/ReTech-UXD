@@ -246,11 +246,13 @@ When posting the device you can view and edit the post. Also, you can mark it as
 ![Tu publicación](https://github.com/user-attachments/assets/9b3a8ee9-f455-4155-809c-15487484f5b8)
 ![Editar tu publicación](https://github.com/user-attachments/assets/d9e1c275-046a-42c9-9a88-c5e0934fc843)
 
-You can view other users posts and if you are interested you can click the Send message to donor button and you will be redirected to the chat screen.
+You can view other users posts and if you are interested you can click the Send message to donor button and you will be redirected to the chat screen. Also you can view the profile of the person who published the electronic device.
 
 ![Ver publicacion (1)](https://github.com/user-attachments/assets/a61dc655-0671-4a9e-ba6d-7b6c70b00c72)
 
 ![Chat mi interés otro producto](https://github.com/user-attachments/assets/dd367226-b8dc-4720-8fda-9a8c9817047c)
+
+![Perfil Antonia (donadora)](https://github.com/user-attachments/assets/b387288a-4990-4949-8511-22ee4ef98d67)
 
 On the browsing chat screen, there are two tabs, one to go to the user's interests chat screen and the other is the my donations chat screen.
 
