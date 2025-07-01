@@ -217,7 +217,7 @@ The front page of the application at start up.
 
 ![Portada](https://github.com/user-attachments/assets/092ed1b9-6cd3-453b-8377-17a28ad1db59)
 
-[![Portada](Files/mockups/v2/Portada.png)](Files/mockups/v2/)
+[![Portada](Files/mockups/v2/Portada.png)](Files/mockups/v2/Portada.png)
 
 This screen briefly and clearly presents the main purpose of our application, with the aim of helping users understand what it is for from the outset and encouraging them to explore it.
 
