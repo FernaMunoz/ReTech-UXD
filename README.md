@@ -241,6 +241,43 @@ On the post a device screen, you can post a device you want to donate, adding a 
 
 ![Añadir publicación (1)](https://github.com/user-attachments/assets/a16f5ab1-012f-4cfa-be88-8fbce3116287)
 
+When posting the device you can view and edit the post. Also, you can mark it as donated if you donated the device to an interested person.
+
+![Tu publicación](https://github.com/user-attachments/assets/9b3a8ee9-f455-4155-809c-15487484f5b8)
+![Editar tu publicación](https://github.com/user-attachments/assets/d9e1c275-046a-42c9-9a88-c5e0934fc843)
+
+You can view other users posts and if you are interested you can click the Send message to donor button and you will be redirected to the chat screen.
+
+![Ver publicacion (1)](https://github.com/user-attachments/assets/a61dc655-0671-4a9e-ba6d-7b6c70b00c72)
+
+![Chat mi interés otro producto](https://github.com/user-attachments/assets/dd367226-b8dc-4720-8fda-9a8c9817047c)
+
+On the browsing chat screen, there are two tabs, one to go to the user's interests chat screen and the other is the my donations chat screen.
+
+![Historial de chats donación](https://github.com/user-attachments/assets/84addea6-e97d-4d42-8062-d7aeec26c807)
+![Historial de chats mis intereses](https://github.com/user-attachments/assets/9eead93b-02a4-4cd3-9775-6bcdeaf801c1)
+
+In the my interests chat screen , you can talk to the donor of the device of interest, decide to meet at a specific point if the user is interested in the device.
+
+![Historial de chats mis intereses](https://github.com/user-attachments/assets/55af63b5-5023-4296-9b8d-e7450fba0066)
+
+When a specific point decided by the donor and the person is made delivery of the donated device, you will receive a notification that the donation was made and to qualify the donor who delivered the electronic device.
+
+![Notificación](https://github.com/user-attachments/assets/29317ce1-d2b1-4594-8e99-cc3bc98c54dc)
+![Calificar usuario](https://github.com/user-attachments/assets/145a2635-181d-4fff-b51d-b9fcb60ab031)
+
+In the my donations chat screen, you can decide to meet at a specific point if the person is interested in the electronic device you posted.
+
+![Chat mis donaciones](https://github.com/user-attachments/assets/f77e077e-4c4c-46e2-b010-0a0a381e0ac7)
+
+In the navigation bar, the profile button you can see your profile, with your posts to view or edit them.
+
+![Mi perfil](https://github.com/user-attachments/assets/dbd9e5b6-2216-4bb4-a403-b3a015ae79db)
+
+On the profile screen, there is the configuration button, you have the options to configure the account, help and support, and the actions of your account.
+
+![Configuracion (1)](https://github.com/user-attachments/assets/07912a52-0cf5-4b12-93fa-5b5bbcad3a02)
+
 ## Team
 
 Maria José Powell - Designer
