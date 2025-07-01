@@ -323,6 +323,19 @@ Here is the link to the final mockups with the application flow and the file wit
 
 ## Heuristic Evaluation
 
+In the heuristic evaluation of our ReTech application, the five most critical problems were identified, which are detailed below:
+
+[![EvaluacionHeuristica](Files/evaluacion_heuristica.png)](Files/evaluacion_heuristica.png)
+
+
+Based on this assessment, we decided to make the corresponding improvements, starting with the problem identified with ID 1. This problem was related to a lack of clarity about the purpose of the application, so we worked on refining and better communicating its objective.
+
+On the main screen, we added a brief but clear description explaining that ReTech is focused on the donation of electronic devices. In addition, we incorporated a prominent option in the navigation bar (navbar) called “Donate,” where users can post details about the device they wish to donate.
+
+This idea was also reinforced in other sections of the application. For example, when a person completes the donation process, a pop-up window appears thanking them for their contribution.
+
+[![Principal](Files/mockups/v2/Principal.png)](Files/mockups/v2/Principal.png)
+
 ## Team
 
 Maria José Powell - Designer
