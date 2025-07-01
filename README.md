@@ -212,6 +212,14 @@ Based on teacher feedback and heuristic evaluation of our course classmates, we 
 
 As a group we decided on a dark palette with a less light green color, with the background color a very dark gray that is not completely black.
 
+The changes that were made was to eliminate the functionality to view the map. Because it was unnecessary to focus only on the donation of electronic devices. Since the map was useful to see the recycling points that are in the UFRO, but recycling was no longer the focus of the application, so it was decided to eliminate it and only focus on these main features:
+
+- View publications of electronic devices that are being donated.
+- Search for specific electronic devices.
+- Publish an electronic device you want to donate.
+- Chat with people who want to donate a device or talk to people interested in the devices that the user posted.
+- User profile screen
+
 The main screens of the application are as follows.
 
 The front page of the application at start up.
