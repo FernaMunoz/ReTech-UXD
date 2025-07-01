@@ -213,11 +213,21 @@ The front page of the application at start up.
 ![Portada](https://github.com/user-attachments/assets/092ed1b9-6cd3-453b-8377-17a28ad1db59)
 ![Principal](https://github.com/user-attachments/assets/a8e4ed40-0cf7-4f0e-a73b-0df06ffcd22f)
 
-Sign in and Sign up screens
+Login and sign up 
 
 ![Iniciar sesión](https://github.com/user-attachments/assets/4d4f5fe1-efc7-4452-b344-9b19104522b7)
 ![Registrar](https://github.com/user-attachments/assets/eff62050-2d5e-4c95-8a9b-b48828bc24cd)
 
+The home screen shows the different electronic devices that have been published by users
+
+![Inicio](https://github.com/user-attachments/assets/62dc719c-facf-40ff-851c-dddfa07914ee)
+
+The home screen has a filter that displays specific categories of electronic devices that users have posted. Such as computers, cell phones, and others.
+
+![Computadores](https://github.com/user-attachments/assets/73827e54-7997-4601-91a4-829809fda6ae)
+![Celulares](https://github.com/user-attachments/assets/fd1d18f3-72da-48f3-ac32-4ab8c89f930d)
+
+The navbar of the home screen, has 5 options, home screen, search, publish a device, chat conversation and user profile.
 
 ## Team
 
