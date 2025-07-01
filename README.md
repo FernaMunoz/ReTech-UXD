@@ -13,7 +13,7 @@ User experience design for ReTech application to donate recycled electronic devi
 * [4. Structure](#structure)
 * [5. Skeleton](#skeleton)
 * [6. Surface](#surface)
-  * [6.1 Mockups 2.0](#mockups-2.0)
+  * [6.1 Mockups 2.0](#mockups-20)
 * [7. Team](#Team)
   
 ## Description
