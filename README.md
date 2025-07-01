@@ -229,27 +229,30 @@ Login and sign up
 
 The home screen shows the different electronic devices that have been published by users.
 
-![Inicio](https://github.com/user-attachments/assets/62dc719c-facf-40ff-851c-dddfa07914ee)
+[![Inicio](Files/mockups/v2/Inicio.png)](Files/mockups/v2/Inicio.png)
 
 The home screen has a filter that displays specific categories of electronic devices that users have posted. Such as computers, cell phones, and others.
 
-![Computadores](https://github.com/user-attachments/assets/73827e54-7997-4601-91a4-829809fda6ae)
-![Celulares](https://github.com/user-attachments/assets/fd1d18f3-72da-48f3-ac32-4ab8c89f930d)
+[![Computadores](Files/mockups/v2/Computadores.png)](Files/mockups/v2/Computadores.png)
+[![Celulares](Files/mockups/v2/Celulares.png)](Files/mockups/v2/Celulares.png)
 
 The navigation bar on the home screen has five options: home screen, search, donate a device, chat conversation, and user profile.
 
 First, we have the search screen, for searching for specific electronic devices.
 
-![Buscar](https://github.com/user-attachments/assets/b2cd3dd1-1953-44c9-b422-14e1823b0f2d)
+[![Buscar](Files/mockups/v2/Buscar.png)](Files/mockups/v2/Buscar.png)
 
 On the post a device screen, you can post a device you want to donate, adding a title, an image, selecting the category and the description of the device.
 
-![Añadir publicación (1)](https://github.com/user-attachments/assets/a16f5ab1-012f-4cfa-be88-8fbce3116287)
+[![Añadir publicación](Files/mockups/v2/Añadir%20publicación.png)](Files/mockups/v2/Añadir%20publicación.png)
 
 When you posting the device, you can view, delete, and edit the publication. You can also mark it as donated if you have donated it to an interested party.
 
 ![Tu publicación](https://github.com/user-attachments/assets/9b3a8ee9-f455-4155-809c-15487484f5b8)
 ![Editar tu publicación](https://github.com/user-attachments/assets/d9e1c275-046a-42c9-9a88-c5e0934fc843)
+
+[![Tu publicación](Files/mockups/v2/Tu%20publicación.png)](Files/mockups/v2/Tu%20publicación.png)
+[![Editar tu publicación](Files/mockups/v2/Editar%20tu%20publicación.png)](Files/mockups/v2/Editar%20tu%20publicación.png)
 
 You can explore other users' posts and, if any interest you, click on the “Send message to donor” button to be redirected to the chat screen. You can also view the profile of the user who posted the device, along with their star rating, which helps to build trust and confidence when finalizing the donation.
 
