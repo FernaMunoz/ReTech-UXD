@@ -173,7 +173,7 @@ Configuration
 
 [Interfaces full Document here](Files/Interfaces.png)
 
-## Mockups 2.0
+### Mockups 2.0
 
 Based on teacher feedback and heuristic evaluation of our course classmates, we have changed the interfaces of the application, due to unnecessary functions, aesthetics, colors and improve the main functionalities of the application.
 
