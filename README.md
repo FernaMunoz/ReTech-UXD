@@ -218,7 +218,7 @@ Login and sign up
 ![Iniciar sesión](https://github.com/user-attachments/assets/4d4f5fe1-efc7-4452-b344-9b19104522b7)
 ![Registrar](https://github.com/user-attachments/assets/eff62050-2d5e-4c95-8a9b-b48828bc24cd)
 
-The home screen shows the different electronic devices that have been published by users
+The home screen shows the different electronic devices that have been published by users.
 
 ![Inicio](https://github.com/user-attachments/assets/62dc719c-facf-40ff-851c-dddfa07914ee)
 
@@ -227,7 +227,15 @@ The home screen has a filter that displays specific categories of electronic dev
 ![Computadores](https://github.com/user-attachments/assets/73827e54-7997-4601-91a4-829809fda6ae)
 ![Celulares](https://github.com/user-attachments/assets/fd1d18f3-72da-48f3-ac32-4ab8c89f930d)
 
-The navbar of the home screen, has 5 options, home screen, search, publish a device, chat conversation and user profile.
+The navbar of the home screen, has 5 options, home screen, search, post a device, chat conversation and user profile.
+
+First, we have the search screen, to search for specific electronic devices. Such as searching by name, brand, or category.
+
+![Buscar](https://github.com/user-attachments/assets/b2cd3dd1-1953-44c9-b422-14e1823b0f2d)
+
+On the post a device screen, you can post a device you want to donate, adding a title, an image, selecting the category and the description of the device.
+
+![Añadir publicación (1)](https://github.com/user-attachments/assets/a16f5ab1-012f-4cfa-be88-8fbce3116287)
 
 ## Team
 
