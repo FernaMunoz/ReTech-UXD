@@ -13,8 +13,9 @@ User experience design for ReTech application to donate recycled electronic devi
 * [4. Structure](#structure)
 * [5. Skeleton](#skeleton)
 * [6. Surface](#surface)
+  * [6.1 Mockups 2.0](#mockups-2.0)
 * [7. Team](#Team)
-
+  
 ## Description
 
 At UFRO, students have functional but unused electronic devices. However, they lack an adequate platform to easily and securely donate them to other students who might need them.
