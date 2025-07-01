@@ -335,6 +335,9 @@ On the main screen, we added a brief but clear description explaining that ReTec
 This idea was also reinforced in other sections of the application. For example, when a person completes the donation process, a pop-up window appears thanking them for their contribution.
 
 [![Principal](Files/mockups/v2/Principal.png)](Files/mockups/v2/Principal.png)
+[![Añadir publicación](Files/mockups/v2/Añadir%20publicación.png)](Files/mockups/v2/Añadir%20publicación.png)
+![popUp agradecimiento](https://github.com/user-attachments/assets/f9e0be09-8575-4b53-bd85-c6306cd256b7)
+
 
 ## Team
 
