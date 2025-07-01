@@ -145,6 +145,7 @@ Login
 
 ![Inicio sesion Interfaz](https://github.com/user-attachments/assets/ba899a36-5237-4bfd-b581-d087b4fd3800)
 
+
 Sign up
 
 ![Registrar usuario Interfaz](https://github.com/user-attachments/assets/8742fedb-bb3f-46d9-a735-5f170749463b)
@@ -216,7 +217,10 @@ The front page of the application at start up.
 
 ![Portada](https://github.com/user-attachments/assets/092ed1b9-6cd3-453b-8377-17a28ad1db59)
 
+[![Portada](Files/mockups/v2/Portada.png)](Files/mockups/v2/)
+
 This screen briefly and clearly presents the main purpose of our application, with the aim of helping users understand what it is for from the outset and encouraging them to explore it.
+
 ![Principal](https://github.com/user-attachments/assets/a8e4ed40-0cf7-4f0e-a73b-0df06ffcd22f)
 
 Login and sign up 
