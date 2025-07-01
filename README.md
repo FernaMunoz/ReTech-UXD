@@ -338,8 +338,46 @@ This idea was also reinforced in other sections of the application. For example,
 [![Añadir publicación](Files/mockups/v2/Añadir%20publicación.png)](Files/mockups/v2/Añadir%20publicación.png)
 ![popUp agradecimiento](https://github.com/user-attachments/assets/f9e0be09-8575-4b53-bd85-c6306cd256b7)
 
+Continuing with the issue identified with ID 3, this was related to a lack of clarity about how and where exchanges of donated devices take place. To address this, it was made clear that ReTech is designed to facilitate donations within the UFRO campus, with the aim of ensuring a safe and effective process.
+
+To reinforce this message, informational screens explaining the process step by step were incorporated. These are available in the “Help and Support,” “Terms and Conditions,” and “Get Safety Tips from ReTech” sections.
+
+![Ayuda y Soporte](https://github.com/user-attachments/assets/2d2ecd7d-aca6-4296-8b45-10308bd44694)
+
+![Terminos y Condiciones](https://github.com/user-attachments/assets/ba5dc1a9-9743-406d-a6e6-b7e19d474d32)
+
+![popUp ayuda](https://github.com/user-attachments/assets/0eed069e-87a8-4788-9666-0de1e4855a87)
+
+![opcion4 consejosSeguridad](https://github.com/user-attachments/assets/04be596f-314b-4331-87da-4f4b629d4943)
+
+Regarding the problem identified with ID 5, it was detected that users did not have sufficient guidance to understand the general functioning of the application. To solve this, various screens and help resources were designed to guide users in the correct use of all available features.
+
+First, an icon was added to the chat section that displays a menu with different help options. These include: how to block another user, how to mark a post as donated, and how to rate a donor. Selecting any of these options displays a screen with the corresponding detailed information.
+
+In addition, a shortcut to “Help and Support” was added to the settings section, where users can consult a list of frequently asked questions related to the use of the application. If users need more personalized assistance, they also have the option of sending a message directly to the support team.
+
+![Historial de chats donación](https://github.com/user-attachments/assets/28b6d87d-b9c5-43f9-aa15-ed6c7b512376)
+![popUp ayuda (1)](https://github.com/user-attachments/assets/5159a7ef-39c9-422d-87e2-30ec80c15bce)
+![opcion1 Bloquear](https://github.com/user-attachments/assets/a0e5f40b-be32-40be-ba91-87298323c970)
+![opcion2 marcarDonado](https://github.com/user-attachments/assets/1b96cc41-1c92-4e47-967a-8351bc83d221)
+![opcion3 calificarDonador](https://github.com/user-attachments/assets/78bde0fa-c747-4f35-8e3c-d1b4a2d8d599)
+![Ayuda y Soporte (1)](https://github.com/user-attachments/assets/488a0cbc-468b-473d-bf1d-45feee9c2dac)
+
+To solve the problem with ID 12, the word ‘Chats’ was added in order to maintain consistency with conventions.
+
+![Historial de chats donación (1)](https://github.com/user-attachments/assets/85e9fd34-3dc2-463c-b315-2a6765aad5cc)
+
+Finally, to solve the problem identified with ID 11, a clear distinction was made between the different types of conversations within the chat section.
+
+On the one hand, the “My interests” tab shows chats between the user and people who have posted electronic devices in which he or she has expressed interest. On the other hand, the “My donations” tab displays chats with users who are interested in the products that the user himself has posted for donation.
+
+
+![Historial de chats mis intereses](https://github.com/user-attachments/assets/9d7e019f-0077-4fe6-93f6-a66d50d12123)
+
+![Historial de chats donación (1)](https://github.com/user-attachments/assets/85e9fd34-3dc2-463c-b315-2a6765aad5cc)
 
 ## Team
+
 
 Maria José Powell - Designer
 
