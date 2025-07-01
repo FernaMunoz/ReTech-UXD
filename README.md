@@ -15,7 +15,8 @@ User experience design for the ReTech application for electronic device donation
 * [6. Surface](#surface)
   * [6.1 Mockups v1](#mockups-v1)
   * [6.2 Mockups v2](#mockups-v2)
-* [7. Team](#Team)
+* [7. Heuristic Evaluation](#Heuristic-Evaluation)
+* [8. Team](#Team)
   
 ## Description
 
@@ -319,6 +320,8 @@ Here is the link to the final mockups with the application flow and the file wit
 [ReTech Application Flow](https://www.figma.com/design/2BXptp8VpephnWdWNgxuK6/Idea-de-correcci%C3%B3n?node-id=0-1&p=f&t=jq9G6QoVeRkm0kIu-0)
 
 [View Mockups v2](Files/mockups/v2/mockups.md)
+
+## Heuristic Evaluation
 
 ## Team
 
