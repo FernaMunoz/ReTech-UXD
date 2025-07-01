@@ -1,6 +1,6 @@
 # ReTech-UXD
 
-User experience design for the ReTech application for electronic device donation, uploading publications and chatting with people interested in donating electronic devices and agreeing on a meeting point.
+User experience design for the ReTech app for donating electronic devices, uploading posts, and chatting with people interested in donating electronic devices, as well as setting up a meeting point within their university.
 
 ## Index
 
