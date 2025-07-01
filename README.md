@@ -14,7 +14,7 @@ User experience design for the ReTech application for electronic device donation
 * [5. Skeleton](#skeleton)
 * [6. Surface](#surface)
   * [6.1 Mockups v1](#mockups-v1)
-  * [6.1 Mockups v2](#mockups-v2)
+  * [6.2 Mockups v2](#mockups-v2)
 * [7. Team](#Team)
   
 ## Description
@@ -255,22 +255,18 @@ You can explore other users' posts and, if any interest you, click on the “Sen
 
 [![Ver publicacion](Files/mockups/v2/Ver%20publicacion.png)](Files/mockups/v2/Ver%20publicacion.png)
 
-![Chat mi interés otro producto](https://github.com/user-attachments/assets/dd367226-b8dc-4720-8fda-9a8c9817047c)
-
 [![Chat mi interés otro producto](Files/mockups/v2/Chat%20mi%20interés%20otro%20producto.png)](Files/mockups/v2/Chat%20mi%20interés%20otro%20producto.png)
-
-![Perfil Antonia (donadora)](https://github.com/user-attachments/assets/b387288a-4990-4949-8511-22ee4ef98d67)
 
 [![Perfil Antonia (donadora)](Files/mockups/v2/Perfil%20Antonia%20%28donadora%29.png)](Files/mockups/v2/Perfil%20Antonia%20%28donadora%29.png)
 
 On the browsing chat screen, there are two tabs, one to go to the user's interests chat screen and the other is the my donations chat screen.
 
-![Historial de chats donación](https://github.com/user-attachments/assets/84addea6-e97d-4d42-8062-d7aeec26c807)
-![Historial de chats mis intereses](https://github.com/user-attachments/assets/9eead93b-02a4-4cd3-9775-6bcdeaf801c1)
+[![Historial de chats donación](Files/mockups/v2/Historial%20de%20chats%20donación.png)](Files/mockups/v2/Historial%20de%20chats%20donación.png)
+[![Historial de chats mis intereses](Files/mockups/v2/Historial%20de%20chats%20mis%20intereses.png)](Files/mockups/v2/Historial%20de%20chats%20mis%20intereses.png)
 
 In the my interests chat screen , you can talk to the donor of the device of interest, decide to meet at a specific point if the user is interested in the device.
 
-![Historial de chats mis intereses](https://github.com/user-attachments/assets/55af63b5-5023-4296-9b8d-e7450fba0066)
+[![Chat mi interés](Files/mockups/v2/Chat%20mi%20interés.png)](Files/mockups/v2/Chat%20mi%20interés.png)
 
 When a specific point decided by the donor and the person is made delivery of the donated device, you will receive a notification that the donation was made and to qualify the donor who delivered the electronic device.
 
