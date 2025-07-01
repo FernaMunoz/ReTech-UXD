@@ -30,6 +30,10 @@ The following image shows the Value Proposition Canvas based on donating electro
 
 [![Value_Proposition_Canvas](Files/Value_Proposition_Canvas.png)](Files/Value_Proposition_Canvas.png)
 
+The following image shows the value proposition canvas developed around the donation of electronic devices for reuse. It analyzes the value of the problem, considering the weaknesses faced by users who accumulate these devices, as well as the satisfaction and benefits they can obtain by donating them to those who need them.
+
+It is important to note that, in the final version of the canvas, everything related to recycling points was removed in order to focus the proposal exclusively on donations, promoting the reuse of electronics through a solidarity network among members of the UFRO community.
+
 [![Final Value_Proposition_Canvas](Files/Final_Value_Proposition_Canvas_ReTech.png)](Files/Final_Value_Proposition_Canvas_ReTech.png)
 
 
@@ -46,6 +50,8 @@ By creating Personas with different contexts where a person is required to donat
 [![UX Persona 1](Files/UX_Person_1.png)](Files/UX_Person_1.png)
 
 [![UX Persona 2](Files/UX_Person_2.png)](Files/UX_Person_2.png)
+
+Due to the elimination of recycling points, it was decided to focus solely on users with context, goals, and frustrations related to donations. Therefore, Roberto Echeverría's information was updated to respond to these new requirements.
 
 [![Final UX Persona 2](Files/UX_PERSONAS_FINAL.png)](Files/UX_PERSONAS_FINAL.png)
 
@@ -78,6 +84,18 @@ The design and navigation of a product is defined in the structure plane, in the
 In the Site Map shows how the navigation of the application works. From logging in, viewing the feed, posting or editing publications, searching for recycling points and talking to the person interested in the advertised device, in addition view the profile user.
 
 [![Site Map ReTech](Files/Site_Map_ReTech.png)](Files/Site_Map_ReTech.png)
+
+Below is the final site map, which details the final navigation of the application.
+
+This update includes new features and important improvements. A notifications section has been added, where users can rate the donor once the donation is complete.
+
+Specific actions for posts have also been added, such as marking as donated, editing, or deleting, allowing users to have greater control over their contributions within the platform.
+
+The Settings section has been expanded and now includes all relevant options: edit profile, privacy, terms and conditions, notifications, help and support, passwords and security, as well as the option to log out.
+
+In the chat section, a new navigation feature has been implemented that allows conversations to be organized into two categories: “My donations” and “My interests,” making it easier to follow exchanges.
+
+Finally, a section has been added where it is possible to view donations posted by other users. From there, you can open a chat if you are interested in a product or report the post if it violates security rules.
 
 [![Final Site Map ReTech](Files/Final_Site_Map_ReTech.png)](Files/Final_Site_Map_ReTech.png)
 
