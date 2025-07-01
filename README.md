@@ -80,6 +80,7 @@ In the Site Map shows how the navigation of the application works. From logging 
 [![Site Map ReTech](Files/Site_Map_ReTech.png)](Files/Site_Map_ReTech.png)
 
 [![Final Site Map ReTech](Files/Final_Site_Map_ReTech .png)](Files/Final_Site_Map_ReTech .png)
+
 ## Skeleton
 The fourth plane, which is the skeleton, is where the graphic interface is designed, the navigation and how components such as buttons, text, images, etc. will be placed. Wireframes are a visual representation of what users will see and interact with in the application. The purpose of a wireframe is to visualize the concept of the project. 
 
