@@ -270,16 +270,16 @@ In the my interests chat screen , you can talk to the donor of the device of int
 
 When a specific point decided by the donor and the person is made delivery of the donated device, you will receive a notification that the donation was made and to qualify the donor who delivered the electronic device.
 
-![Notificación](https://github.com/user-attachments/assets/29317ce1-d2b1-4594-8e99-cc3bc98c54dc)
-![Calificar usuario](https://github.com/user-attachments/assets/145a2635-181d-4fff-b51d-b9fcb60ab031)
+[![Notificación](Files/mockups/v2/Notificación.png)](Files/mockups/v2/Notificación.png)
+[![Calificar usuario](Files/mockups/v2/Calificar%20usuario.png)](Files/mockups/v2/Calificar%20usuario.png)
 
 In the my donations chat screen, you can decide to meet at a specific point if the person is interested in the electronic device you posted.
 
-![Chat mis donaciones](https://github.com/user-attachments/assets/f77e077e-4c4c-46e2-b010-0a0a381e0ac7)
+[![Chat mis donaciones](Files/mockups/v2/Chat%20mis%20donaciones.png)](Files/mockups/v2/Chat%20mis%20donaciones.png)
 
 In the navigation bar, the profile button you can see your profile, with your posts to view or edit them.
 
-![Mi perfil](https://github.com/user-attachments/assets/dbd9e5b6-2216-4bb4-a403-b3a015ae79db)
+[![Mi perfil](Files/mockups/v2/Mi%20perfil.png)](Files/mockups/v2/Mi%20perfil.png)
 
 On the profile screen, users will find the Settings button, where they can manage various aspects of their account and customize their experience within the ReTech app. This section is organized into several options that allow users to maintain control and security of their account, as well as resolve questions or report issues. The available features are detailed below:
 
@@ -304,7 +304,7 @@ This section details the terms and conditions established by the ReTech team to 
 7. Report a problem
 If a user detects an error, malfunction, or any technical issue within the application, they can report it from this section. You will be asked to describe the problem in detail and, if you wish, you can include your email address to receive a direct response from the technical team with a possible solution or follow-up.
 
-![Configuracion (1)](https://github.com/user-attachments/assets/07912a52-0cf5-4b12-93fa-5b5bbcad3a02)
+[![Configuracion](Files/mockups/v2/Configuracion.png)](Files/mockups/v2/Configuracion.png)
 
 ## Team
 
