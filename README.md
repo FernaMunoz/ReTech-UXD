@@ -1,6 +1,6 @@
 # ReTech-UXD
 
-User experience design for ReTech application to donate recycled electronic devices, upload publications and locate recycling points.
+User experience design for the ReTech application for electronic device donation, uploading publications and chatting with people interested in donating electronic devices and agreeing on a meeting point.
 
 ## Index
 
@@ -13,7 +13,8 @@ User experience design for ReTech application to donate recycled electronic devi
 * [4. Structure](#structure)
 * [5. Skeleton](#skeleton)
 * [6. Surface](#surface)
-  * [6.1 Mockups 2.0](#mockups-20)
+  * [6.1 Mockups v1](#mockups-v1)
+  * [6.1 Mockups v2](#mockups-v2)
 * [7. Team](#Team)
   
 ## Description
@@ -139,12 +140,12 @@ Below are the wireframes designed for the mobile application where you upload pu
 ## Surface
 Finally, there is the surface plane, where the actual interface that users will see and interact with is designed, as well as the content that the application will present.
 
+### Mockups v1
 With the design of the screens you can see the colors, components and operation of the application, shown below.
 
 Login 
 
 ![Inicio sesion Interfaz](https://github.com/user-attachments/assets/ba899a36-5237-4bfd-b581-d087b4fd3800)
-
 
 Sign up
 
@@ -205,7 +206,7 @@ Configuration
 
 [Interfaces full Document here](Files/Interfaces.png)
 
-### Mockups 2.0
+### Mockups v2
 
 Based on teacher feedback and heuristic evaluation of our course classmates, we have changed the interfaces of the application, some functionalities, aesthetics, colors and improve the main functionalities of the application.
 
@@ -215,18 +216,16 @@ The main screens of the application are as follows.
 
 The front page of the application at start up.
 
-![Portada](https://github.com/user-attachments/assets/092ed1b9-6cd3-453b-8377-17a28ad1db59)
-
 [![Portada](Files/mockups/v2/Portada.png)](Files/mockups/v2/Portada.png)
 
 This screen briefly and clearly presents the main purpose of our application, with the aim of helping users understand what it is for from the outset and encouraging them to explore it.
 
-![Principal](https://github.com/user-attachments/assets/a8e4ed40-0cf7-4f0e-a73b-0df06ffcd22f)
+[![Principal](Files/mockups/v2/Principal.png)](Files/mockups/v2/Principal.png)
 
 Login and sign up 
 
-![Iniciar sesión](https://github.com/user-attachments/assets/4d4f5fe1-efc7-4452-b344-9b19104522b7)
-![Registrar](https://github.com/user-attachments/assets/eff62050-2d5e-4c95-8a9b-b48828bc24cd)
+[![Iniciar sesión](Files/mockups/v2/Iniciar%20sesión.png)](Files/mockups/v2/Iniciar%20sesión.png)
+[![Registrar](Files/mockups/v2/Registrar.png)](Files/mockups/v2/Registrar.png)
 
 The home screen shows the different electronic devices that have been published by users.
 
