@@ -314,7 +314,11 @@ If a user detects an error, malfunction, or any technical issue within the appli
 
 [![Configuracion](Files/mockups/v2/Configuracion.png)](Files/mockups/v2/Configuracion.png)
 
-[Mockups v2 Full Document](Files/mockups/v2/mockups.md)
+Here is the link to the final mockups with the application flow and the file with all the final mockups.
+
+[ReTech Application Flow](https://www.figma.com/design/2BXptp8VpephnWdWNgxuK6/Idea-de-correcci%C3%B3n?node-id=0-1&p=f&t=jq9G6QoVeRkm0kIu-0)
+
+[View Mockups v2](Files/mockups/v2/mockups.md)
 
 ## Team
 
