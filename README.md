@@ -30,6 +30,9 @@ The following image shows the Value Proposition Canvas based on donating electro
 
 [![Value_Proposition_Canvas](Files/Value_Proposition_Canvas.png)](Files/Value_Proposition_Canvas.png)
 
+[![Final Value_Proposition_Canvas](Files/Final_Value_Proposition_Canvas_ReTech.png)](Files/Final_Value_Proposition_Canvas_ReTech.png)
+
+
 ## Scope
 
 When defining the product strategy using the value proposition canvas, we must define the scope plane. In this plane describes the functional and content requirements of your product, as well as the user stories and scenarios that describe how users will interact with it. You also identify the users who would be interested in the product and create user flows, site maps and information architecture diagrams to show how your product will be structured and organized.
@@ -44,6 +47,8 @@ By creating Personas with different contexts where a person is required to donat
 
 [![UX Persona 2](Files/UX_Person_2.png)](Files/UX_Person_2.png)
 
+[![Final UX Persona 2](Files/UX_PERSONAS_FINAL.png)](Files/UX_PERSONAS_FINAL.png)
+
 [![UX Persona 3](Files/UX_Person_3.png)](Files/UX_Person_3.png)
 
 ### Customer Journey Map
@@ -51,6 +56,8 @@ By creating Personas with different contexts where a person is required to donat
 Based on the creation of UX Personas we define the Customer Journey Map to identify what is wanted from the application to design.
 
 [![Customer_Journey_Map](Files/Customer_Journey_Map.png)](Files/Customer_Journey_Map,png)
+
+[![Final Customer_Journey_Map](Files/Final_Customer_Journey_Retech.png)](Files/Final_Customer_Journey_Retech.png)
 
 ### Benchmark
 
@@ -72,6 +79,7 @@ In the Site Map shows how the navigation of the application works. From logging 
 
 [![Site Map ReTech](Files/Site_Map_ReTech.png)](Files/Site_Map_ReTech.png)
 
+[![Final Site Map ReTech](Files/Final_Site_Map_ReTech.png)](Files/Final_Site_Map_ReTech.png)
 ## Skeleton
 The fourth plane, which is the skeleton, is where the graphic interface is designed, the navigation and how components such as buttons, text, images, etc. will be placed. Wireframes are a visual representation of what users will see and interact with in the application. The purpose of a wireframe is to visualize the concept of the project. 
 
